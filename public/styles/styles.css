@@ -3,6 +3,8 @@
   background-size: cover;
   background-repeat: no-repeat;
   color: #EEE;
+  text-align: center;
+
 }
 .jumbotron .container {
   height: 350px;
@@ -16,4 +18,21 @@
 
 .hidden {
   display: none;
+}
+
+b {
+  color: red;
+}
+
+th {
+  color: red;
+  text-align: center;
+}
+
+td {
+  text-align: center;
+}
+
+table {
+  text-align: center;
 }
